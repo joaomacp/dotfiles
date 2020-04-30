@@ -1,0 +1,3 @@
+# Make scroll lock backlight control work on CMStorm keyboard
+xmodmap -e "add mod3 = Scroll_Lock"
+

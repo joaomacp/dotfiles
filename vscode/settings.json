@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "Solarized Light",
+    "python.linting.enabled": false,
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": 0,
+    "window.titleBarStyle": "custom",
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "extensions.ignoreRecommendations": false,
+    "java.requirements.JDK11Warning": false,
+    "workbench.editor.enablePreview": false
+}
