@@ -26,3 +26,4 @@ alias gca="git commit --amend"
 alias gpf="git push --force-with-lease"
 alias grom="git pull --rebase origin main"
 alias gro="git pull --rebase origin" # some branch here
+alias gfa="git fetch --all"
