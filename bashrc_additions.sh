@@ -23,6 +23,7 @@ alias gc="git commit"
 __git_complete gc _git_commit
 
 alias gca="git commit --amend"
+alias gcane="git commit --amend --no-edit"
 alias gpf="git push --force-with-lease"
 alias grom="git pull --rebase origin main"
 alias gro="git pull --rebase origin" # some branch here
