@@ -2,12 +2,15 @@
 
 1. Comment this part from .bashrc
 
+```bash
 # for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
 # HISTSIZE=1000
 # HISTFILESIZE=2000
+```
 
 1. Add this to the bottom of .bashrc
 
+```bash
 # Eternal bash history.
 # ---------------------
 # Undocumented feature which sets the size to "unlimited".
@@ -21,4 +24,4 @@ export HISTFILE=~/.bash_eternal_history
 # Force prompt to write history after every command.
 # http://superuser.com/questions/20900/bash-history-loss
 PROMPT_COMMAND="history -a; $PROMPT_COMMAND"
-
+```
